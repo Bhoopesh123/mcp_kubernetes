@@ -1,0 +1,3 @@
+grafana:
+  url: http://grafana.metrics.svc.cluster.local
+  apiKey: glsa_1Wht91iUpxbhMa3ZHh68IxwqDnzmmGSY_cc1e7a12
